@@ -25,6 +25,7 @@ This repo documents all the awesome resources I found so far!
 
 ## AI
 1. [Artificial Intelligence: Foundations of Computational Agents,  3rd Edition](https://artint.info/3e/html/ArtInt3e.html)
+2. [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 
 ## Awesome Collections
 1. https://github.com/EbookFoundation/free-programming-books
