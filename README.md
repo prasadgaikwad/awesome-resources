@@ -21,6 +21,7 @@ This repo documents all the awesome resources I found so far!
 ## System Design
 1. https://bytebytego.com/courses/system-design-interview
 2. https://systemdesignprep.com/home
+3. https://systemdesignfightclub.com/
 
 ## Coding
 1. https://neetcode.io
