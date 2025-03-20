@@ -40,6 +40,8 @@ This repo documents all the awesome resources I found so far!
 ## AI
 1. [Artificial Intelligence: Foundations of Computational Agents,  3rd Edition](https://artint.info/3e/html/ArtInt3e.html)
 2. [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+3. [Machine Learning](https://www3.cs.stonybrook.edu/~pramod.ganapathi/ml.html)
+4. [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/#/)
 
 ### Books
 1. [Generative AI Handbook](https://genai-handbook.github.io)
@@ -50,9 +52,9 @@ This repo documents all the awesome resources I found so far!
 ### Courses
 1. [Elements of AI0](https://www.elementsofai.com)
 2. [CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
-3. 
+3. [LLM Course](https://github.com/mlabonne/llm-course)
 
-## Awesome Collections
+# Awesome Collections
 1. https://github.com/EbookFoundation/free-programming-books
 
 
